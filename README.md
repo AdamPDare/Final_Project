@@ -1,4 +1,4 @@
-# Final_Project: Implementing SAM 2.1 Hiera Small and Base Plus
+# Final_Project: Finetuning SAM 2.1 Hiera Small and Base Plus
 **Environment**<br>
 To run both implementations, access to Google Colab and Google Drive is neccessary. <br>
 The Python version must be greater than Python 3.10 <br>
