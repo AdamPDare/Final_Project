@@ -1,6 +1,6 @@
 # Final_Project: Finetuning SAM 2.1 Hiera Small and Base Plus
 **Environment**<br>
-To run both implementations, access to Google Colab and Google Drive is neccessary. <br>
+To run both implementations, access to Google Colab and Google Drive is necssary. <br>
 The Python version must be greater than Python 3.10 <br>
 **Google Drive Folder**<br>
 To import the dataset or finetuned models please navigate to this google drive link: <br>
