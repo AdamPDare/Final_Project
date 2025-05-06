@@ -6,6 +6,12 @@ The Python version must be greater than Python 3.10 <br>
 To import the dataset or finetuned models please navigate to this google drive link: <br>
 https://drive.google.com/drive/folders/10CfsXCHP5cfL6iWXgBgFjCMRPeT48Cfg?usp=sharing
 
+<br>**Code Files**<br>
+* FP_SAM_HBase.ipynb <br>
+  * Contains all the code utilised to finetune SAM 2.1 Hiera Base Plus <br>
+* FP_SAM_HS.ipynb <br>
+  * Contains all the code utilised to finetune SAM 2.1 Hiera Small<br>
+
 **Finetuning**<br>
 For optimal finetuning, please use Google Colab's A100 GPUs. The finetuning process will run on other GPUs but will require a lot more training time <br>
 
