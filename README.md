@@ -7,7 +7,7 @@ To import the dataset or finetuned models please navigate to this google drive l
 https://drive.google.com/drive/folders/10CfsXCHP5cfL6iWXgBgFjCMRPeT48Cfg?usp=sharing
 
 **Finetuning**<br>
-
+For optimal finetuning, please use Google Colab's A100 GPUs. The finetuning process will run on other GPUs but will require a lot more training time <br>
 
 <br> **Folders** <br>
 * BraTS2020_TrainingData<br>
@@ -26,3 +26,11 @@ https://drive.google.com/drive/folders/10CfsXCHP5cfL6iWXgBgFjCMRPeT48Cfg?usp=sha
   * Stores all the model weights during fine tuning. (This is done once every five epochs)<br>
 * Final_Saved_Model<br>
   * Stores all the final model weights that are used to test the model.<br>
+
+
+**Final Finetuned Models**<br>
+The SAM 2.1 Hiera Base model weights are stored in the folder Final_Saved_Model:
+* finetunedSAM2_Base.torch
+
+The SAM 2.1 Hiera Small Model weights are stored in the folder Final_Saved_Model:
+* finetunedSAM2_S_V2_t2.torch
